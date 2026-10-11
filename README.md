@@ -1,13 +1,7 @@
 # Menu Value
 
-See how each dish's price compares with similar dishes nearby. Point it at a
-restaurant's menu, and for every dish it tells you whether the price is good
-value, typical, or pricey compared with comparable dishes in the same
-Chicago neighborhood (or citywide when the neighborhood is thin on data).
-
-> Status: working skeleton. The full flow runs end to end on **synthetic
-> sample data**. Real data, photo reading, smarter categorization and the
-> price model are your build, week by week - see [ROADMAP.md](ROADMAP.md).
+The goal of this project is to compare a dish's price with similar dishes nearby. Give the app a picture of the restaurant's menu, and for every dish it tells you whether the price is good
+value, typical, or pricey compared with comparable dishes in the same neighborhood (or citywide when the neighborhood is thin on data).
 
 ## How it works
 
@@ -30,34 +24,23 @@ menu photo / text
 
 ## Run it locally
 
-You need Python 3.11+ and Node.js 20+. Use two terminal windows.
+You need Python 3.11+ and Node.js 20+.
 
 **Terminal 1 - backend**
 ```bash
 cd backend
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+source .venv/bin/activate       
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 Open http://127.0.0.1:8000/docs to try the API directly.
 
-**Terminal 2 - website**
-```bash
-cd frontend
-npm install
-npm run dev
-```
-Open http://localhost:5173, pick a neighborhood and press **Check prices**.
-
-To try it on your phone, run `npm run dev -- --host` and open the "Network"
-URL it prints (phone and computer must be on the same Wi-Fi).
-
 ## Tests
 
 ```bash
-cd backend && pytest          # Python
-cd frontend && npm run lint   # JavaScript
+cd backend && pytest         
+cd frontend && npm run lint  
 ```
 
 ## Finding your work
