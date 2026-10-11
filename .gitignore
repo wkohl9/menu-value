@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# JavaScript
+node_modules/
+dist/
+
+# Secrets - API keys go in .env, never in git
+.env
+.env.*
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

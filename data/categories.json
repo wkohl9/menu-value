@@ -1,0 +1,9 @@
+{
+  "burger": ["burger", "cheeseburger", "smashburger", "smash burger"],
+  "tacos": ["taco", "tacos al pastor", "birria tacos"],
+  "pizza": ["pizza", "margherita", "pepperoni pie", "deep dish", "tavern style"],
+  "ramen": ["ramen", "tonkotsu", "shoyu ramen", "miso ramen"],
+  "pad_thai": ["pad thai"],
+  "chicken_sandwich": ["chicken sandwich", "chicken sando", "fried chicken sandwich"],
+  "latte": ["latte", "oat latte", "vanilla latte"]
+}

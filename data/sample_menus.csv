@@ -1,0 +1,253 @@
+restaurant,neighborhood,cuisine,rating,price_tier,dish_name,category,price,source,collected_on
+Sample Spot 001,Hyde Park,sample,3.6,2,Cheeseburger,burger,16.24,synthetic,2026-10-01
+Sample Spot 002,Hyde Park,sample,3.8,1,Cheeseburger,burger,13.24,synthetic,2026-10-01
+Sample Spot 003,Hyde Park,sample,4.7,1,Cheeseburger,burger,16.49,synthetic,2026-10-01
+Sample Spot 004,Hyde Park,sample,3.6,1,Cheeseburger,burger,15.99,synthetic,2026-10-01
+Sample Spot 005,Hyde Park,sample,4.2,1,Cheeseburger,burger,12.99,synthetic,2026-10-01
+Sample Spot 006,Hyde Park,sample,4.5,3,Cheeseburger,burger,15.74,synthetic,2026-10-01
+Sample Spot 007,Hyde Park,sample,4.3,1,Tacos (3),tacos,9.99,synthetic,2026-10-01
+Sample Spot 008,Hyde Park,sample,3.8,3,Tacos (3),tacos,13.49,synthetic,2026-10-01
+Sample Spot 009,Hyde Park,sample,3.8,2,Tacos (3),tacos,10.74,synthetic,2026-10-01
+Sample Spot 010,Hyde Park,sample,4.1,2,Tacos (3),tacos,9.25,synthetic,2026-10-01
+Sample Spot 011,Hyde Park,sample,4.3,1,Tacos (3),tacos,14.24,synthetic,2026-10-01
+Sample Spot 012,Hyde Park,sample,4.2,3,Tacos (3),tacos,13.49,synthetic,2026-10-01
+Sample Spot 013,Hyde Park,sample,4.0,2,Margherita Pizza,pizza,14.24,synthetic,2026-10-01
+Sample Spot 014,Hyde Park,sample,4.4,1,Margherita Pizza,pizza,19.99,synthetic,2026-10-01
+Sample Spot 015,Hyde Park,sample,4.5,1,Margherita Pizza,pizza,20.74,synthetic,2026-10-01
+Sample Spot 016,Hyde Park,sample,4.6,3,Margherita Pizza,pizza,22.99,synthetic,2026-10-01
+Sample Spot 017,Hyde Park,sample,4.4,2,Margherita Pizza,pizza,16.49,synthetic,2026-10-01
+Sample Spot 018,Hyde Park,sample,4.0,2,Margherita Pizza,pizza,15.24,synthetic,2026-10-01
+Sample Spot 019,Hyde Park,sample,4.4,1,Tonkotsu Ramen,ramen,17.24,synthetic,2026-10-01
+Sample Spot 020,Hyde Park,sample,3.8,2,Tonkotsu Ramen,ramen,16.74,synthetic,2026-10-01
+Sample Spot 021,Hyde Park,sample,4.1,2,Tonkotsu Ramen,ramen,14.24,synthetic,2026-10-01
+Sample Spot 022,Hyde Park,sample,4.6,1,Tonkotsu Ramen,ramen,17.24,synthetic,2026-10-01
+Sample Spot 023,Hyde Park,sample,3.6,2,Tonkotsu Ramen,ramen,14.49,synthetic,2026-10-01
+Sample Spot 024,Hyde Park,sample,3.7,2,Tonkotsu Ramen,ramen,15.49,synthetic,2026-10-01
+Sample Spot 025,Hyde Park,sample,4.2,3,Pad Thai,pad_thai,13.24,synthetic,2026-10-01
+Sample Spot 026,Hyde Park,sample,3.8,2,Pad Thai,pad_thai,12.99,synthetic,2026-10-01
+Sample Spot 027,Hyde Park,sample,4.1,3,Pad Thai,pad_thai,15.99,synthetic,2026-10-01
+Sample Spot 028,Hyde Park,sample,4.8,2,Pad Thai,pad_thai,13.99,synthetic,2026-10-01
+Sample Spot 029,Hyde Park,sample,3.7,1,Pad Thai,pad_thai,14.74,synthetic,2026-10-01
+Sample Spot 030,Hyde Park,sample,3.8,2,Pad Thai,pad_thai,16.49,synthetic,2026-10-01
+Sample Spot 031,Hyde Park,sample,4.1,1,Fried Chicken Sandwich,chicken_sandwich,14.99,synthetic,2026-10-01
+Sample Spot 032,Hyde Park,sample,4.3,3,Fried Chicken Sandwich,chicken_sandwich,12.74,synthetic,2026-10-01
+Sample Spot 033,Hyde Park,sample,4.8,1,Fried Chicken Sandwich,chicken_sandwich,13.49,synthetic,2026-10-01
+Sample Spot 034,Hyde Park,sample,3.7,2,Fried Chicken Sandwich,chicken_sandwich,14.24,synthetic,2026-10-01
+Sample Spot 035,Hyde Park,sample,4.0,2,Fried Chicken Sandwich,chicken_sandwich,14.74,synthetic,2026-10-01
+Sample Spot 036,Hyde Park,sample,4.1,2,Fried Chicken Sandwich,chicken_sandwich,12.99,synthetic,2026-10-01
+Sample Spot 037,Hyde Park,sample,4.5,1,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 038,Hyde Park,sample,4.0,2,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 039,Hyde Park,sample,4.5,1,Latte,latte,4.50,synthetic,2026-10-01
+Sample Spot 040,Hyde Park,sample,4.2,1,Latte,latte,5.50,synthetic,2026-10-01
+Sample Spot 041,Hyde Park,sample,4.7,2,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 042,Hyde Park,sample,3.9,1,Latte,latte,4.75,synthetic,2026-10-01
+Sample Spot 043,Lincoln Park,sample,4.2,1,Cheeseburger,burger,13.74,synthetic,2026-10-01
+Sample Spot 044,Lincoln Park,sample,4.2,2,Cheeseburger,burger,21.49,synthetic,2026-10-01
+Sample Spot 045,Lincoln Park,sample,4.2,2,Cheeseburger,burger,13.99,synthetic,2026-10-01
+Sample Spot 046,Lincoln Park,sample,4.6,3,Cheeseburger,burger,15.24,synthetic,2026-10-01
+Sample Spot 047,Lincoln Park,sample,4.7,2,Cheeseburger,burger,21.24,synthetic,2026-10-01
+Sample Spot 048,Lincoln Park,sample,4.1,2,Cheeseburger,burger,18.99,synthetic,2026-10-01
+Sample Spot 049,Lincoln Park,sample,4.2,1,Tacos (3),tacos,12.99,synthetic,2026-10-01
+Sample Spot 050,Lincoln Park,sample,3.7,1,Tacos (3),tacos,11.49,synthetic,2026-10-01
+Sample Spot 051,Lincoln Park,sample,3.9,2,Tacos (3),tacos,14.24,synthetic,2026-10-01
+Sample Spot 052,Lincoln Park,sample,4.4,1,Tacos (3),tacos,9.75,synthetic,2026-10-01
+Sample Spot 053,Lincoln Park,sample,4.7,2,Tacos (3),tacos,11.49,synthetic,2026-10-01
+Sample Spot 054,Lincoln Park,sample,3.9,3,Tacos (3),tacos,10.24,synthetic,2026-10-01
+Sample Spot 055,Lincoln Park,sample,3.8,3,Margherita Pizza,pizza,17.99,synthetic,2026-10-01
+Sample Spot 056,Lincoln Park,sample,4.2,3,Margherita Pizza,pizza,18.24,synthetic,2026-10-01
+Sample Spot 057,Lincoln Park,sample,3.7,3,Margherita Pizza,pizza,17.49,synthetic,2026-10-01
+Sample Spot 058,Lincoln Park,sample,4.1,1,Margherita Pizza,pizza,19.74,synthetic,2026-10-01
+Sample Spot 059,Lincoln Park,sample,4.8,1,Margherita Pizza,pizza,23.74,synthetic,2026-10-01
+Sample Spot 060,Lincoln Park,sample,4.5,1,Margherita Pizza,pizza,15.99,synthetic,2026-10-01
+Sample Spot 061,Lincoln Park,sample,3.8,3,Tonkotsu Ramen,ramen,16.74,synthetic,2026-10-01
+Sample Spot 062,Lincoln Park,sample,3.8,3,Tonkotsu Ramen,ramen,15.99,synthetic,2026-10-01
+Sample Spot 063,Lincoln Park,sample,4.7,3,Tonkotsu Ramen,ramen,16.74,synthetic,2026-10-01
+Sample Spot 064,Lincoln Park,sample,4.6,1,Tonkotsu Ramen,ramen,20.24,synthetic,2026-10-01
+Sample Spot 065,Lincoln Park,sample,4.8,1,Tonkotsu Ramen,ramen,15.49,synthetic,2026-10-01
+Sample Spot 066,Lincoln Park,sample,4.7,2,Tonkotsu Ramen,ramen,21.49,synthetic,2026-10-01
+Sample Spot 067,Lincoln Park,sample,4.2,2,Pad Thai,pad_thai,14.99,synthetic,2026-10-01
+Sample Spot 068,Lincoln Park,sample,4.7,2,Pad Thai,pad_thai,18.74,synthetic,2026-10-01
+Sample Spot 069,Lincoln Park,sample,4.8,2,Pad Thai,pad_thai,15.99,synthetic,2026-10-01
+Sample Spot 070,Lincoln Park,sample,4.5,2,Pad Thai,pad_thai,18.99,synthetic,2026-10-01
+Sample Spot 071,Lincoln Park,sample,4.7,3,Pad Thai,pad_thai,16.24,synthetic,2026-10-01
+Sample Spot 072,Lincoln Park,sample,4.0,1,Pad Thai,pad_thai,14.99,synthetic,2026-10-01
+Sample Spot 073,Lincoln Park,sample,4.3,2,Fried Chicken Sandwich,chicken_sandwich,15.74,synthetic,2026-10-01
+Sample Spot 074,Lincoln Park,sample,4.3,2,Fried Chicken Sandwich,chicken_sandwich,12.24,synthetic,2026-10-01
+Sample Spot 075,Lincoln Park,sample,4.2,2,Fried Chicken Sandwich,chicken_sandwich,12.24,synthetic,2026-10-01
+Sample Spot 076,Lincoln Park,sample,3.7,2,Fried Chicken Sandwich,chicken_sandwich,12.24,synthetic,2026-10-01
+Sample Spot 077,Lincoln Park,sample,4.7,2,Fried Chicken Sandwich,chicken_sandwich,14.49,synthetic,2026-10-01
+Sample Spot 078,Lincoln Park,sample,3.6,1,Fried Chicken Sandwich,chicken_sandwich,15.74,synthetic,2026-10-01
+Sample Spot 079,Lincoln Park,sample,4.3,2,Latte,latte,6.00,synthetic,2026-10-01
+Sample Spot 080,Lincoln Park,sample,3.8,2,Latte,latte,7.25,synthetic,2026-10-01
+Sample Spot 081,Lincoln Park,sample,4.1,2,Latte,latte,5.50,synthetic,2026-10-01
+Sample Spot 082,Lincoln Park,sample,4.7,1,Latte,latte,6.00,synthetic,2026-10-01
+Sample Spot 083,Lincoln Park,sample,4.3,1,Latte,latte,5.00,synthetic,2026-10-01
+Sample Spot 084,Lincoln Park,sample,3.9,2,Latte,latte,5.00,synthetic,2026-10-01
+Sample Spot 085,Logan Square,sample,4.0,1,Cheeseburger,burger,13.24,synthetic,2026-10-01
+Sample Spot 086,Logan Square,sample,4.0,2,Cheeseburger,burger,19.49,synthetic,2026-10-01
+Sample Spot 087,Logan Square,sample,4.3,2,Cheeseburger,burger,15.74,synthetic,2026-10-01
+Sample Spot 088,Logan Square,sample,4.8,1,Cheeseburger,burger,17.24,synthetic,2026-10-01
+Sample Spot 089,Logan Square,sample,4.3,1,Cheeseburger,burger,17.74,synthetic,2026-10-01
+Sample Spot 090,Logan Square,sample,3.8,1,Cheeseburger,burger,19.99,synthetic,2026-10-01
+Sample Spot 091,Logan Square,sample,4.5,2,Tacos (3),tacos,15.49,synthetic,2026-10-01
+Sample Spot 092,Logan Square,sample,4.3,2,Tacos (3),tacos,10.99,synthetic,2026-10-01
+Sample Spot 093,Logan Square,sample,4.4,2,Tacos (3),tacos,10.74,synthetic,2026-10-01
+Sample Spot 094,Logan Square,sample,3.9,1,Tacos (3),tacos,12.74,synthetic,2026-10-01
+Sample Spot 095,Logan Square,sample,4.1,2,Tacos (3),tacos,9.75,synthetic,2026-10-01
+Sample Spot 096,Logan Square,sample,4.0,2,Tacos (3),tacos,9.50,synthetic,2026-10-01
+Sample Spot 097,Logan Square,sample,3.9,3,Margherita Pizza,pizza,21.99,synthetic,2026-10-01
+Sample Spot 098,Logan Square,sample,4.1,1,Margherita Pizza,pizza,20.99,synthetic,2026-10-01
+Sample Spot 099,Logan Square,sample,4.7,2,Margherita Pizza,pizza,15.74,synthetic,2026-10-01
+Sample Spot 100,Logan Square,sample,4.6,2,Margherita Pizza,pizza,20.99,synthetic,2026-10-01
+Sample Spot 101,Logan Square,sample,3.7,2,Margherita Pizza,pizza,19.49,synthetic,2026-10-01
+Sample Spot 102,Logan Square,sample,4.6,1,Margherita Pizza,pizza,25.24,synthetic,2026-10-01
+Sample Spot 103,Logan Square,sample,3.9,2,Tonkotsu Ramen,ramen,19.74,synthetic,2026-10-01
+Sample Spot 104,Logan Square,sample,4.0,3,Tonkotsu Ramen,ramen,18.24,synthetic,2026-10-01
+Sample Spot 105,Logan Square,sample,4.5,2,Tonkotsu Ramen,ramen,20.24,synthetic,2026-10-01
+Sample Spot 106,Logan Square,sample,4.8,2,Tonkotsu Ramen,ramen,19.49,synthetic,2026-10-01
+Sample Spot 107,Logan Square,sample,3.6,2,Tonkotsu Ramen,ramen,19.74,synthetic,2026-10-01
+Sample Spot 108,Logan Square,sample,4.1,2,Tonkotsu Ramen,ramen,18.99,synthetic,2026-10-01
+Sample Spot 109,Logan Square,sample,4.5,1,Pad Thai,pad_thai,14.49,synthetic,2026-10-01
+Sample Spot 110,Logan Square,sample,3.6,3,Pad Thai,pad_thai,15.24,synthetic,2026-10-01
+Sample Spot 111,Logan Square,sample,4.6,3,Pad Thai,pad_thai,14.49,synthetic,2026-10-01
+Sample Spot 112,Logan Square,sample,4.6,2,Pad Thai,pad_thai,14.99,synthetic,2026-10-01
+Sample Spot 113,Logan Square,sample,4.4,3,Pad Thai,pad_thai,14.49,synthetic,2026-10-01
+Sample Spot 114,Logan Square,sample,4.6,2,Pad Thai,pad_thai,14.99,synthetic,2026-10-01
+Sample Spot 115,Logan Square,sample,4.2,2,Fried Chicken Sandwich,chicken_sandwich,13.24,synthetic,2026-10-01
+Sample Spot 116,Logan Square,sample,3.7,2,Fried Chicken Sandwich,chicken_sandwich,16.99,synthetic,2026-10-01
+Sample Spot 117,Logan Square,sample,4.8,2,Fried Chicken Sandwich,chicken_sandwich,12.24,synthetic,2026-10-01
+Sample Spot 118,Logan Square,sample,4.3,2,Fried Chicken Sandwich,chicken_sandwich,11.49,synthetic,2026-10-01
+Sample Spot 119,Logan Square,sample,4.0,1,Fried Chicken Sandwich,chicken_sandwich,15.74,synthetic,2026-10-01
+Sample Spot 120,Logan Square,sample,4.3,2,Fried Chicken Sandwich,chicken_sandwich,13.49,synthetic,2026-10-01
+Sample Spot 121,Logan Square,sample,4.1,2,Latte,latte,4.75,synthetic,2026-10-01
+Sample Spot 122,Logan Square,sample,3.7,2,Latte,latte,5.50,synthetic,2026-10-01
+Sample Spot 123,Logan Square,sample,4.4,1,Latte,latte,6.00,synthetic,2026-10-01
+Sample Spot 124,Logan Square,sample,4.0,2,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 125,Logan Square,sample,4.0,2,Latte,latte,6.00,synthetic,2026-10-01
+Sample Spot 126,Logan Square,sample,3.8,3,Latte,latte,5.75,synthetic,2026-10-01
+Sample Spot 127,Pilsen,sample,4.7,2,Cheeseburger,burger,15.24,synthetic,2026-10-01
+Sample Spot 128,Pilsen,sample,4.6,2,Cheeseburger,burger,13.49,synthetic,2026-10-01
+Sample Spot 129,Pilsen,sample,4.1,2,Cheeseburger,burger,12.49,synthetic,2026-10-01
+Sample Spot 130,Pilsen,sample,4.1,2,Cheeseburger,burger,13.74,synthetic,2026-10-01
+Sample Spot 131,Pilsen,sample,4.6,2,Cheeseburger,burger,14.24,synthetic,2026-10-01
+Sample Spot 132,Pilsen,sample,3.9,2,Cheeseburger,burger,15.24,synthetic,2026-10-01
+Sample Spot 133,Pilsen,sample,4.7,2,Tacos (3),tacos,8.50,synthetic,2026-10-01
+Sample Spot 134,Pilsen,sample,3.9,2,Tacos (3),tacos,11.99,synthetic,2026-10-01
+Sample Spot 135,Pilsen,sample,3.7,3,Tacos (3),tacos,8.75,synthetic,2026-10-01
+Sample Spot 136,Pilsen,sample,4.5,3,Tacos (3),tacos,11.74,synthetic,2026-10-01
+Sample Spot 137,Pilsen,sample,4.4,2,Tacos (3),tacos,10.49,synthetic,2026-10-01
+Sample Spot 138,Pilsen,sample,4.1,3,Tacos (3),tacos,12.24,synthetic,2026-10-01
+Sample Spot 139,Pilsen,sample,4.4,1,Margherita Pizza,pizza,14.99,synthetic,2026-10-01
+Sample Spot 140,Pilsen,sample,4.6,1,Margherita Pizza,pizza,21.74,synthetic,2026-10-01
+Sample Spot 141,Pilsen,sample,3.9,3,Margherita Pizza,pizza,20.49,synthetic,2026-10-01
+Sample Spot 142,Pilsen,sample,3.9,1,Margherita Pizza,pizza,12.74,synthetic,2026-10-01
+Sample Spot 143,Pilsen,sample,4.6,2,Margherita Pizza,pizza,17.24,synthetic,2026-10-01
+Sample Spot 144,Pilsen,sample,4.7,3,Margherita Pizza,pizza,22.24,synthetic,2026-10-01
+Sample Spot 145,Pilsen,sample,4.3,2,Tonkotsu Ramen,ramen,16.74,synthetic,2026-10-01
+Sample Spot 146,Pilsen,sample,4.2,2,Tonkotsu Ramen,ramen,16.24,synthetic,2026-10-01
+Sample Spot 147,Pilsen,sample,4.6,2,Tonkotsu Ramen,ramen,16.24,synthetic,2026-10-01
+Sample Spot 148,Pilsen,sample,4.2,2,Tonkotsu Ramen,ramen,16.24,synthetic,2026-10-01
+Sample Spot 149,Pilsen,sample,3.7,2,Tonkotsu Ramen,ramen,13.74,synthetic,2026-10-01
+Sample Spot 150,Pilsen,sample,4.0,1,Tonkotsu Ramen,ramen,13.49,synthetic,2026-10-01
+Sample Spot 151,Pilsen,sample,3.9,2,Pad Thai,pad_thai,11.99,synthetic,2026-10-01
+Sample Spot 152,Pilsen,sample,3.7,3,Pad Thai,pad_thai,14.49,synthetic,2026-10-01
+Sample Spot 153,Pilsen,sample,4.2,1,Pad Thai,pad_thai,12.99,synthetic,2026-10-01
+Sample Spot 154,Pilsen,sample,4.1,1,Pad Thai,pad_thai,12.24,synthetic,2026-10-01
+Sample Spot 155,Pilsen,sample,4.5,3,Pad Thai,pad_thai,15.24,synthetic,2026-10-01
+Sample Spot 156,Pilsen,sample,4.7,2,Pad Thai,pad_thai,13.49,synthetic,2026-10-01
+Sample Spot 157,Pilsen,sample,4.6,3,Fried Chicken Sandwich,chicken_sandwich,13.74,synthetic,2026-10-01
+Sample Spot 158,Pilsen,sample,4.5,2,Fried Chicken Sandwich,chicken_sandwich,12.49,synthetic,2026-10-01
+Sample Spot 159,Pilsen,sample,3.9,3,Fried Chicken Sandwich,chicken_sandwich,12.24,synthetic,2026-10-01
+Sample Spot 160,Pilsen,sample,4.0,3,Fried Chicken Sandwich,chicken_sandwich,9.75,synthetic,2026-10-01
+Sample Spot 161,Pilsen,sample,4.6,2,Fried Chicken Sandwich,chicken_sandwich,13.49,synthetic,2026-10-01
+Sample Spot 162,Pilsen,sample,4.2,3,Fried Chicken Sandwich,chicken_sandwich,14.74,synthetic,2026-10-01
+Sample Spot 163,Pilsen,sample,4.4,1,Latte,latte,5.25,synthetic,2026-10-01
+Sample Spot 164,Pilsen,sample,3.8,3,Latte,latte,5.25,synthetic,2026-10-01
+Sample Spot 165,Pilsen,sample,3.9,2,Latte,latte,4.25,synthetic,2026-10-01
+Sample Spot 166,Pilsen,sample,4.0,3,Latte,latte,4.50,synthetic,2026-10-01
+Sample Spot 167,Pilsen,sample,4.7,3,Latte,latte,4.50,synthetic,2026-10-01
+Sample Spot 168,Pilsen,sample,3.7,1,Latte,latte,4.50,synthetic,2026-10-01
+Sample Spot 169,West Loop,sample,3.7,2,Cheeseburger,burger,21.24,synthetic,2026-10-01
+Sample Spot 170,West Loop,sample,3.7,1,Cheeseburger,burger,16.24,synthetic,2026-10-01
+Sample Spot 171,West Loop,sample,4.7,2,Cheeseburger,burger,21.24,synthetic,2026-10-01
+Sample Spot 172,West Loop,sample,4.3,2,Cheeseburger,burger,21.99,synthetic,2026-10-01
+Sample Spot 173,West Loop,sample,4.4,2,Cheeseburger,burger,15.24,synthetic,2026-10-01
+Sample Spot 174,West Loop,sample,3.9,2,Cheeseburger,burger,18.49,synthetic,2026-10-01
+Sample Spot 175,West Loop,sample,4.3,1,Tacos (3),tacos,11.99,synthetic,2026-10-01
+Sample Spot 176,West Loop,sample,3.8,2,Tacos (3),tacos,16.99,synthetic,2026-10-01
+Sample Spot 177,West Loop,sample,3.6,2,Tacos (3),tacos,11.49,synthetic,2026-10-01
+Sample Spot 178,West Loop,sample,4.7,3,Tacos (3),tacos,15.49,synthetic,2026-10-01
+Sample Spot 179,West Loop,sample,4.5,1,Tacos (3),tacos,13.99,synthetic,2026-10-01
+Sample Spot 180,West Loop,sample,4.6,2,Tacos (3),tacos,15.49,synthetic,2026-10-01
+Sample Spot 181,West Loop,sample,4.5,1,Margherita Pizza,pizza,17.99,synthetic,2026-10-01
+Sample Spot 182,West Loop,sample,4.3,1,Margherita Pizza,pizza,27.74,synthetic,2026-10-01
+Sample Spot 183,West Loop,sample,4.1,2,Margherita Pizza,pizza,21.49,synthetic,2026-10-01
+Sample Spot 184,West Loop,sample,4.4,1,Margherita Pizza,pizza,17.49,synthetic,2026-10-01
+Sample Spot 185,West Loop,sample,4.6,1,Margherita Pizza,pizza,28.49,synthetic,2026-10-01
+Sample Spot 186,West Loop,sample,4.0,3,Margherita Pizza,pizza,22.74,synthetic,2026-10-01
+Sample Spot 187,West Loop,sample,4.1,2,Tonkotsu Ramen,ramen,21.49,synthetic,2026-10-01
+Sample Spot 188,West Loop,sample,4.7,3,Tonkotsu Ramen,ramen,20.99,synthetic,2026-10-01
+Sample Spot 189,West Loop,sample,4.6,2,Tonkotsu Ramen,ramen,19.74,synthetic,2026-10-01
+Sample Spot 190,West Loop,sample,3.9,1,Tonkotsu Ramen,ramen,18.74,synthetic,2026-10-01
+Sample Spot 191,West Loop,sample,4.1,3,Tonkotsu Ramen,ramen,18.49,synthetic,2026-10-01
+Sample Spot 192,West Loop,sample,4.4,2,Tonkotsu Ramen,ramen,20.49,synthetic,2026-10-01
+Sample Spot 193,West Loop,sample,4.6,2,Pad Thai,pad_thai,15.49,synthetic,2026-10-01
+Sample Spot 194,West Loop,sample,4.0,2,Pad Thai,pad_thai,18.24,synthetic,2026-10-01
+Sample Spot 195,West Loop,sample,4.7,2,Pad Thai,pad_thai,17.24,synthetic,2026-10-01
+Sample Spot 196,West Loop,sample,4.2,2,Pad Thai,pad_thai,18.49,synthetic,2026-10-01
+Sample Spot 197,West Loop,sample,4.5,3,Pad Thai,pad_thai,15.74,synthetic,2026-10-01
+Sample Spot 198,West Loop,sample,3.9,3,Pad Thai,pad_thai,18.49,synthetic,2026-10-01
+Sample Spot 199,West Loop,sample,4.2,1,Fried Chicken Sandwich,chicken_sandwich,17.49,synthetic,2026-10-01
+Sample Spot 200,West Loop,sample,3.9,2,Fried Chicken Sandwich,chicken_sandwich,13.74,synthetic,2026-10-01
+Sample Spot 201,West Loop,sample,4.3,3,Fried Chicken Sandwich,chicken_sandwich,15.24,synthetic,2026-10-01
+Sample Spot 202,West Loop,sample,4.0,2,Fried Chicken Sandwich,chicken_sandwich,16.99,synthetic,2026-10-01
+Sample Spot 203,West Loop,sample,4.1,2,Fried Chicken Sandwich,chicken_sandwich,15.49,synthetic,2026-10-01
+Sample Spot 204,West Loop,sample,3.7,2,Fried Chicken Sandwich,chicken_sandwich,14.74,synthetic,2026-10-01
+Sample Spot 205,West Loop,sample,4.5,2,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 206,West Loop,sample,4.5,2,Latte,latte,5.75,synthetic,2026-10-01
+Sample Spot 207,West Loop,sample,4.8,2,Latte,latte,7.25,synthetic,2026-10-01
+Sample Spot 208,West Loop,sample,4.6,2,Latte,latte,8.00,synthetic,2026-10-01
+Sample Spot 209,West Loop,sample,3.8,1,Latte,latte,6.00,synthetic,2026-10-01
+Sample Spot 210,West Loop,sample,3.8,1,Latte,latte,7.25,synthetic,2026-10-01
+Sample Spot 211,Wicker Park,sample,4.3,2,Cheeseburger,burger,20.74,synthetic,2026-10-01
+Sample Spot 212,Wicker Park,sample,4.5,1,Cheeseburger,burger,17.99,synthetic,2026-10-01
+Sample Spot 213,Wicker Park,sample,4.3,3,Cheeseburger,burger,19.99,synthetic,2026-10-01
+Sample Spot 214,Wicker Park,sample,4.0,1,Cheeseburger,burger,16.49,synthetic,2026-10-01
+Sample Spot 215,Wicker Park,sample,4.6,1,Cheeseburger,burger,14.74,synthetic,2026-10-01
+Sample Spot 216,Wicker Park,sample,4.1,1,Cheeseburger,burger,19.49,synthetic,2026-10-01
+Sample Spot 217,Wicker Park,sample,4.4,2,Tacos (3),tacos,13.74,synthetic,2026-10-01
+Sample Spot 218,Wicker Park,sample,4.3,2,Tacos (3),tacos,10.49,synthetic,2026-10-01
+Sample Spot 219,Wicker Park,sample,3.9,3,Tacos (3),tacos,9.99,synthetic,2026-10-01
+Sample Spot 220,Wicker Park,sample,4.5,2,Tacos (3),tacos,13.99,synthetic,2026-10-01
+Sample Spot 221,Wicker Park,sample,4.1,3,Tacos (3),tacos,15.24,synthetic,2026-10-01
+Sample Spot 222,Wicker Park,sample,4.3,3,Tacos (3),tacos,11.74,synthetic,2026-10-01
+Sample Spot 223,Wicker Park,sample,4.3,1,Margherita Pizza,pizza,18.49,synthetic,2026-10-01
+Sample Spot 224,Wicker Park,sample,3.8,2,Margherita Pizza,pizza,26.74,synthetic,2026-10-01
+Sample Spot 225,Wicker Park,sample,3.7,2,Margherita Pizza,pizza,17.99,synthetic,2026-10-01
+Sample Spot 226,Wicker Park,sample,3.7,1,Margherita Pizza,pizza,16.99,synthetic,2026-10-01
+Sample Spot 227,Wicker Park,sample,4.4,3,Margherita Pizza,pizza,19.74,synthetic,2026-10-01
+Sample Spot 228,Wicker Park,sample,3.9,2,Margherita Pizza,pizza,18.24,synthetic,2026-10-01
+Sample Spot 229,Wicker Park,sample,4.1,2,Tonkotsu Ramen,ramen,19.24,synthetic,2026-10-01
+Sample Spot 230,Wicker Park,sample,4.5,2,Tonkotsu Ramen,ramen,20.49,synthetic,2026-10-01
+Sample Spot 231,Wicker Park,sample,4.3,2,Tonkotsu Ramen,ramen,17.49,synthetic,2026-10-01
+Sample Spot 232,Wicker Park,sample,4.6,1,Tonkotsu Ramen,ramen,20.49,synthetic,2026-10-01
+Sample Spot 233,Wicker Park,sample,4.6,2,Tonkotsu Ramen,ramen,14.99,synthetic,2026-10-01
+Sample Spot 234,Wicker Park,sample,4.2,2,Tonkotsu Ramen,ramen,17.49,synthetic,2026-10-01
+Sample Spot 235,Wicker Park,sample,4.7,3,Pad Thai,pad_thai,17.24,synthetic,2026-10-01
+Sample Spot 236,Wicker Park,sample,4.3,3,Pad Thai,pad_thai,15.99,synthetic,2026-10-01
+Sample Spot 237,Wicker Park,sample,4.3,1,Pad Thai,pad_thai,17.49,synthetic,2026-10-01
+Sample Spot 238,Wicker Park,sample,4.8,1,Pad Thai,pad_thai,14.24,synthetic,2026-10-01
+Sample Spot 239,Wicker Park,sample,4.4,2,Pad Thai,pad_thai,18.99,synthetic,2026-10-01
+Sample Spot 240,Wicker Park,sample,4.5,2,Pad Thai,pad_thai,16.74,synthetic,2026-10-01
+Sample Spot 241,Wicker Park,sample,4.4,2,Fried Chicken Sandwich,chicken_sandwich,14.49,synthetic,2026-10-01
+Sample Spot 242,Wicker Park,sample,4.3,3,Fried Chicken Sandwich,chicken_sandwich,12.74,synthetic,2026-10-01
+Sample Spot 243,Wicker Park,sample,4.2,3,Fried Chicken Sandwich,chicken_sandwich,17.74,synthetic,2026-10-01
+Sample Spot 244,Wicker Park,sample,4.4,2,Fried Chicken Sandwich,chicken_sandwich,13.74,synthetic,2026-10-01
+Sample Spot 245,Wicker Park,sample,4.4,2,Fried Chicken Sandwich,chicken_sandwich,13.74,synthetic,2026-10-01
+Sample Spot 246,Wicker Park,sample,4.1,1,Fried Chicken Sandwich,chicken_sandwich,15.74,synthetic,2026-10-01
+Sample Spot 247,Wicker Park,sample,4.0,2,Latte,latte,5.75,synthetic,2026-10-01
+Sample Spot 248,Wicker Park,sample,4.5,1,Latte,latte,5.00,synthetic,2026-10-01
+Sample Spot 249,Wicker Park,sample,4.3,3,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 250,Wicker Park,sample,4.2,3,Latte,latte,4.75,synthetic,2026-10-01
+Sample Spot 251,Wicker Park,sample,4.5,2,Latte,latte,6.25,synthetic,2026-10-01
+Sample Spot 252,Wicker Park,sample,3.8,2,Latte,latte,5.25,synthetic,2026-10-01
